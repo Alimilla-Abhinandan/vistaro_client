@@ -42,7 +42,7 @@ function SignUp({ handleLogin }) {
     }
 
     try {
-      const response = await axios.post('http://localhost:5000/api/auth/signup', {
+      const response = await axios.post('http://vistaro-server.onrender.com/api/auth/signup', {
         ...formData,
         age: parseInt(formData.age, 10),
       });
