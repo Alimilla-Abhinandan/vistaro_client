@@ -28,7 +28,7 @@ function App() {
       if (token) {
         try {
           // Token verification endpoint
-          const response = await axios.get('http://vistaro-server.onrender.com/api/auth/signin', {
+          const response = await axios.get('https://vistaro-server.onrender.com/api/auth/signin', {
             headers: {
               Authorization: `Bearer ${token}`,
             },
