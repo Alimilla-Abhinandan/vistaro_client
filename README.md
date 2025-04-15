@@ -68,3 +68,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## 🙏 Acknowledgments
+
+I would like to express my sincere gratitude to the developers and maintainers of the following open-source MERN stack repositories. Their work has been instrumental in shaping and inspiring this project:
+
+- [**Traversy Media's MERN Stack Boilerplate**](https://github.com/bradtraversy/mern_shopping_list) – A great starting point for structuring the backend and frontend of a full-stack MERN application.
+- [**freeCodeCamp MERN Guide**](https://github.com/freeCodeCamp) – For providing in-depth tutorials and real-world project examples.
+- [**The Net Ninja's MERN Stack Series**](https://github.com/iamshaunjp/mern-stack-course) – For clear and practical explanations on integrating all components of the MERN stack.
+- [**MongoDB, Express, React, Node.js Open Source Examples**](https://github.com/Hashnode/mern-starter) – For helping understand scalable project architecture and best practices.
+- [**MERN Social App by DivStack**](https://github.com/divStack/mern-social-app) – For UI/UX inspiration and implementation strategies.
+
+Special thanks to the open-source community for their incredible support, contributions, and dedication to learning and sharing.
+
